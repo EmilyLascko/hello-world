@@ -23,6 +23,10 @@ The process is the sales funnel of me ordering, the person processesing, and the
 
 # Github
 ## Client Server Architecture
+
+
 ## Cloud Computing
+
+Github is considered cloud computing because it is delivering a service via the internet and can be used on any device that has a conncection to the internet.  An example would be Google's gmail or Google drive, you have the ability to access emails or files from any device that uses the internet. 
 
 # Conclusion
