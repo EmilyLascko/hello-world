@@ -30,3 +30,5 @@ The process is the sales funnel of me ordering, the person processesing, and the
 Github is considered cloud computing because it is delivering a service via the internet and can be used on any device that has a conncection to the internet.  An example would be Google's gmail or Google drive, you have the ability to access emails or files from any device that uses the internet. 
 
 # Conclusion
+
+During this lab I learned more about information technology concepts, Github, cloud computing, and also an overview of client-server architecture.  Initially starting out Github was difficult, I had trouble managing to find my way through the website and make a repository.  I checked out more help on the website and was able to figure it out and do it with ease now!  I look forward to getting to use Github more and learning more about the IT world.
