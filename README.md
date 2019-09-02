@@ -24,6 +24,8 @@ The process is the sales funnel of me ordering, the person processesing, and the
 # Github
 ## Client Server Architecture
 
+On the client-side is what the human user would interact with.  On the server-side it would be the engineering underneath it.  Github desktop is a program that you download onto your computer and is an easy way to contribute to projects from OS X or Windows, the buttons you click are the client and Github.com is the server.
+
 
 ## Cloud Computing
 
